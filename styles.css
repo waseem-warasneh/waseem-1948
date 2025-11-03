@@ -19,7 +19,7 @@ body {
   text-align: center;
   font-size: 2rem;
   font-weight: bold;
-  border-radius: 16px;
+  border-radius: 18px;
   background-color: #4f46e5; 
   color: white;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
@@ -157,4 +157,5 @@ body {
   .name-container {
     background-color: #8b5cf6; 
   }
+
 }
